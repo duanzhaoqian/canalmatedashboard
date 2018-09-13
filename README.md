@@ -1,6 +1,6 @@
-# canaldashboard
+# canalmatedashboard
 
-> A Vue.js project
+> canalmate的前台页面系统
 
 ## Build Setup
 
